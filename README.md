@@ -13,16 +13,17 @@ Support Vector Machine,
 Naive Bayes,
 Logistic Regression,
 MPL (MultiLayer Perceptron),
-Random Forest,
+Random Forest
 
 Unsupervised Learning:
 Data Clustering,
 Principal Component Analysis,
 K-Means,
-Means,
+Means
 
-Deep Learning: 
-Convolutional Neural Networks (with tensorflow)
+Deep Learning CPU only: 
+Convolutional Neural Networks (Personal Project with tensorflow and Keras, Convolutional Layer, Max-Pooling)
+Recurrent Neural Network (Personal Project with tensorflow, Keras, LSTM)
 
 Others:
 Gradient Descent,
