@@ -22,7 +22,7 @@ K-Means,
 Means
 
 Deep Learning CPU only: 
-Convolutional Neural Networks (Personal Project with tensorflow and Keras, Convolutional Layer, Max-Pooling)
+Convolutional Neural Networks (Personal Project with tensorflow and Keras, Convolutional Layer, Max-Pooling),
 Recurrent Neural Network (Personal Project with tensorflow, Keras, LSTM)
 
 Others:
